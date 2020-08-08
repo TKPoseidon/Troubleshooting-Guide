@@ -5,5 +5,6 @@
  (to fix different issues that can be possible by a Blockchain)
 
  - The Guide is at moments NOT finished uploaded
+ - soon available
  
  greetings TKPoseidon
